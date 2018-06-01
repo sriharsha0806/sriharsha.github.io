@@ -17,7 +17,9 @@ Education
 Work experience
 ======
 * Fall 2017: Research Fellow
-  * Supervisor: C.V.Jawahar
+  * Supervisor: C.V.Jawahar, IIIT Hyderabad
+* Spring 2014, Research Intern
+  * Supervisor: Siddarth Mukhophadyay, Bhabha Atomic Research Center
 
 Skills
 ======

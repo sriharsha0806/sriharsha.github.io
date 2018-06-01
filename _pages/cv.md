@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.E. in Electronics and Communication Engineering, Manipal Institute of Technology, 2014
-* M.S. in Jekyll, Florida Institute of Technology, 2017
+* M.S. in Florida Institute of Technology, Florida Institute of Technology, 2017
 
 Work experience
 ======

@@ -73,43 +73,24 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  UA-120214523-1
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
+  name             : "Sriharsha"
+  avatar           : "images/430f8541-86b0-4d11-8b99-98548cacaa90.JPG"
+  bio              : "Research Fellow, cvit Hyderabad"
+  location         : "Hyderabad, IND"
+  #employer         :
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "sriharsha0806@gmail.com"
+  facebook         : "sriharshaannamaneni"
+  github           : "sriharsha0806"
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  twitter          : "sriharsha0806@gmail.com"
+
+
 
 
 # Reading Files
